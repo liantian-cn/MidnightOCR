@@ -1,0 +1,10 @@
+## Interface: 110200,110205,110207
+## Title: MidnightOCR
+## Author: liantian-cn - github.com/liantian-cn
+## Version: v1.0.0
+## IconAtlas: questlog-questtypeicon-weekly
+## SavedVariables: MidnightOCRDB
+## Category-zhCN: 战斗辅助
+
+
+MidnightOCR.lua
